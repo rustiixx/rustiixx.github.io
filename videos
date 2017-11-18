@@ -1,7 +1,7 @@
 <!DOCTYPE HTML>
 <html>
 <head>
-<title>|Home| Games</title>
+<title>|Videos| Games</title>
 <link rel="shortcut icon" href="imgs/favicon.ico" />
 </head>
 <style>
@@ -36,15 +36,18 @@ body {
     color: white;
 }
 </style>
-  <a href="index.html">Home</a>
-  <a href="videos.html">Videos</a>
+  <a href="index">Home</a>
+  <a href="videos">Videos</a>
   <a href="#contact">Articles</a>
   <a href="#about">About</a>
+</div>
 </div>
 	<body>
 		<div align=center>
 			<div align=center>
 <img src="imgs/WebLogo.png" height=250 width=500></img>
 </div>
-			<h2 style="font-family:monospace; color:#0f4347;">This site is relating to any and everything about games</h2>
-<br>
+	<body>
+		<div align=center>
+
+
